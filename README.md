@@ -2,6 +2,8 @@
 
 爬取摄影文章，用来训练word2vec模型
 
+Crawl articles about photography, then train a word2vec model.
+
 ******
 
 ## update 07-11-2017
