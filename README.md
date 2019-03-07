@@ -1,4 +1,4 @@
-# photography
+# photography article crawler
 
 爬取摄影文章，用来训练word2vec模型
 
