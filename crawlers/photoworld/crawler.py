@@ -41,7 +41,6 @@ def main():
         print(file_name)
         count = 1
         for line in tqdm(urls):
-            print(count)
             count += 1
             if line[0] != 'h':
                 continue
@@ -71,4 +70,4 @@ def main():
 
 
 if __name__ == '__main__':
-    get_article_urls()
+    main()
