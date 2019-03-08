@@ -47,7 +47,7 @@ def main():
             continue
         out_file.write(article.get_text())
         out_file.flush()
-    print(file_name + " done!")
+    print(" done!")
 
 
 if __name__ == '__main__':
